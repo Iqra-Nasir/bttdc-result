@@ -1,0 +1,132 @@
+{
+  "computerScience": [
+    {
+      "id": 1,
+      "courseName": "প্রোগ্রামিং এর পরিচিতি",
+      "qualification": "উচ্চ মাধ্যমিক সার্টিফিকেট",
+      "duration": "৩ মাস",
+      "detail": "প্রোগ্রামিং এর মৌলিক বিষয় শিখুন।",
+      "image": "images/home/course-cs-1.png"
+    },
+    {
+      "id": 2,
+      "courseName": "ওয়েব ডেভেলপমেন্ট বুটক্যাম্প",
+      "qualification": "উচ্চ মাধ্যমিক সার্টিফিকেট",
+      "duration": "৬ মাস",
+      "detail": "ফুল-স্ট্যাক ওয়েব ডেভেলপার হোন।",
+      "image": "images/home/course-cs-2.png"
+    },
+    {
+      "id": 3,
+      "courseName": "ডাটা সায়েন্স উইথ পাইথন",
+      "qualification": "ব্যাচেলর ডিগ্রি",
+      "duration": "৪ মাস",
+      "detail": "ডাটা বিশ্লেষণ এবং ভিজুয়ালাইজেশনের দক্ষতা অর্জন করুন।",
+      "image": "images/home/course-cs-3.png"
+    }
+  ],
+  "shortCourse": [
+    {
+      "id": 4,
+      "courseName": "মৌলিক গ্রাফিক ডিজাইন",
+      "qualification": "কোনো পূর্বশর্ত নেই",
+      "duration": "১ মাস",
+      "detail": "গ্রাফিক ডিজাইনের মৌলিক বিষয় শিখুন।",
+      "image": "images/home/course-live-1.png"
+    },
+    {
+      "id": 5,
+      "courseName": "ফটোগ্রাফি বেসিকস",
+      "qualification": "কোনো পূর্বশর্ত নেই",
+      "duration": "২ সপ্তাহ",
+      "detail": "ফটোগ্রাফির মৌলিক বিষয় বুঝুন।",
+      "image": "images/home/course-live-2.png"
+    },
+    {
+      "id": 6,
+      "courseName": "ডিজিটাল মার্কেটিং এর প্রয়োজনীয়তা",
+      "qualification": "কোনো পূর্বশর্ত নেই",
+      "duration": "১ মাস",
+      "detail": "ডিজিটাল মার্কেটিং শুরু করুন।",
+      "image": "images/home/course-live-3.png"
+    }
+  ],
+  "medicalCourse": [
+    {
+      "id": 7,
+      "courseName": "প্রাথমিক চিকিৎসা",
+      "qualification": "কোনো পূর্বশর্ত নেই",
+      "duration": "১ সপ্তাহ",
+      "detail": "প্রয়োজনীয় প্রাথমিক চিকিৎসার দক্ষতা শিখুন।",
+      "image": "images/home/course-medical-1.png"
+    },
+    {
+      "id": 8,
+      "courseName": "নার্সিং সহকারী প্রশিক্ষণ",
+      "qualification": "উচ্চ মাধ্যমিক সার্টিফিকেট",
+      "duration": "৬ সপ্তাহ",
+      "detail": "নার্সিং সহকারীর প্রশিক্ষণ।",
+      "image": "images/home/course-medical-2.png"
+    },
+    {
+      "id": 9,
+      "courseName": "মেডিক্যাল টার্মিনোলজি",
+      "qualification": "কোনো পূর্বশর্ত নেই",
+      "duration": "২ মাস",
+      "detail": "মেডিক্যাল টার্মিনোলজি এবং ভাষা শিখুন।",
+      "image": "images/home/course-medical-3.png"
+    }
+  ],
+  "agriculturalCourse": [
+    {
+      "id": 10,
+      "courseName": "জৈব কৃষি প্রযুক্তি",
+      "qualification": "কোনো পূর্বশর্ত নেই",
+      "duration": "৩ মাস",
+      "detail": "জৈব কৃষি প্র্যাকটিস সম্পর্কে শিখুন।",
+      "image": "images/home/course-cs-1.png"
+    },
+    {
+      "id": 11,
+      "courseName": "প্রাণী পালন",
+      "qualification": "উচ্চ মাধ্যমিক সার্টিফিকেট",
+      "duration": "৬ মাস",
+      "detail": "প্রাণী যত্ন এবং ব্যবস্থাপনার প্রশিক্ষণ।",
+      "image": "images/home/course-cs-2.png"
+    },
+    {
+      "id": 12,
+      "courseName": "কৃষি অর্থনীতি",
+      "qualification": "ব্যাচেলর ডিগ্রি",
+      "duration": "৪ মাস",
+      "detail": "কৃষির অর্থনীতি অধ্যয়ন করুন।",
+      "image": "images/home/course-cs-3.png"
+    }
+  ],
+  "fashionCourse": [
+    {
+      "id": 13,
+      "courseName": "ফ্যাশন ডিজাইন মৌলিক বিষয়",
+      "qualification": "কোনো পূর্বশর্ত নেই",
+      "duration": "৩ মাস",
+      "detail": "ফ্যাশন ডিজাইনের মৌলিক বিষয় শিখুন।",
+      "image": "images/home/course-live-1.png"
+    },
+    {
+      "id": 14,
+      "courseName": "টেক্সটাইল বিজ্ঞান",
+      "qualification": "উচ্চ মাধ্যমিক সার্টিফিকেট",
+      "duration": "২ মাস",
+      "detail": "টেক্সটাইল উপকরণ এবং তাদের ব্যবহার সম্পর্কে বুঝুন।",
+      "image": "images/home/course-medical-1.png"
+    },
+    {
+      "id": 15,
+      "courseName": "ফ্যাশন মার্কেটিং",
+      "qualification": "ব্যাচেলর ডিগ্রি",
+      "duration": "১ মাস",
+      "detail": "ফ্যাশন ইন্ডাস্ট্রিতে মার্কেটিং সম্পর্কে জানুন।",
+      "image": "images/home/course-medical-3.png"
+    }
+  ]
+}
